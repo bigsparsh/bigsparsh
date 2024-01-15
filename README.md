@@ -9,8 +9,7 @@ I've been learing and exploring the universe of computer programming for a few y
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Github pages](http://bigsparsh.github.io)
 * ✉️  You can contact me at [sparshsingh7586@gmail.com](mailto:sparshsingh7586@gmail.com)
-* 🚀  I'm currently working on [Student Management System](http://bigsparsh7586.pythonanywhere.com)
-* 🧠  I'm learning Django and API integration
+* 🧠  I'm learning MERN Stack
 
 ### Skills
 
