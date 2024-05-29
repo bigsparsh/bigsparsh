@@ -7,7 +7,7 @@ Web Developer and Designer
 I've been learing and exploring the universe of computer programming for a few years and
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Github pages](http://bigsparsh.github.io)
+* 🖥️  See my portfolio at [BigSparsh](http://bigsparsh.com)
 * ✉️  You can contact me at [sparshsingh7586@gmail.com](mailto:sparshsingh7586@gmail.com)
 * 🧠  I'm learning MERN Stack
 
