@@ -9,9 +9,9 @@ I am a computer science enthusiast and I love to learn new technologies
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [BigSparsh](http://bigsparsh.com)
 * ✉️  You can contact me at [sparshsingh7586@gmail.com](mailto:sparshsingh7586@gmail.com)
-* 🚀  I'm currently working on [Lilac (Social Media Application)](http://lilac.bigsparsh.com)
+* 🚀  I'm currently working on [a payment application](https://github.com/bigsparsh/payment-application)
 * 🧠  I'm learning Advanced Backend Development
-* ⚡  I like chess too
+* ⚡  I like chess
 
 ### Skills
 
@@ -22,6 +22,7 @@ I am a computer science enthusiast and I love to learn new technologies
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/bigsparshc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/bigsparsh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
