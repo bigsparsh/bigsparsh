@@ -9,7 +9,7 @@ I am a computer science enthusiast and I love to learn new technologies
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [BigSparsh](http://bigsparsh.com)
 * ✉️  You can contact me at [sparshsingh7586@gmail.com](mailto:sparshsingh7586@gmail.com)
-* 🚀  I'm currently working on [a payment application](https://github.com/bigsparsh/payment-application)
+* 🚀  I'm currently working on [formiK](https://formik.bigsparsh.com)
 * 🧠  I'm learning Advanced Backend Development
 * ⚡  I like chess
 
