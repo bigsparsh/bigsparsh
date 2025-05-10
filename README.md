@@ -9,8 +9,8 @@ I am a computer science enthusiast and I love to learn new technologies
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [BigSparsh](http://www.bigsparsh.space)
 * ✉️  You can contact me at [sparshsingh7586@gmail.com](mailto:sparshsingh7586@gmail.com)
-* 🚀  I'm currently working on [formiK](https://formik.bigsparsh.space)
-* 🧠  I'm learning Something new
+* 🚀  I'm currently working on [malDeck](https://maldeck.bigsparsh.space)
+* 🧠  I'm learning about RAG
 * ⚡  I like chess too!!
 
 ### Skills
